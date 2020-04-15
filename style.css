@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+}
+canvas {
+  display: block;
+  margin-left: 10ch
+}
+
+h1 {  color: pink;
+  text-align: center;
+  font-family: verdana;
+  font-size: 50px;
+  background-color: darkblue
+}
+p {
+  font-family: verdana;
+  font-size: 10px;
+}
